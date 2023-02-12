@@ -4,5 +4,5 @@ Knowing the future trend of passengers travelling through air transportation is 
 
 The following example uses a data set containing the number of monthly air passengers in thousands of passengers from 1949 until 1960.
 
-Month:Month of the year
-Passengers:Total number of passengers travelled on that particular month.
+Month: Month of the year.
+Passengers: Total number of passengers travelled on that particular month.
